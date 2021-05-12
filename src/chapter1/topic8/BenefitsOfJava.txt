@@ -1,0 +1,30 @@
+
+Benefits of Java
+
+
+1. Java is Object Oriented
+Would you believe me if I told you that a 1300 line functional programming code was reduced to 
+just 200 line oop code?? And also the response time got 20 times faster?? 
+I learnt the importance of oops the hard way. And you should too.
+
+
+2. Encapsulation : Java supports access modifiers to protect data from unintended access and modification.
+
+
+3. Platform Independent : Java is an interpreted language because it gets compiled to
+bytecode. A key benefit is that Java code gets compiled once rather than needing to be
+recompiled for different operating systems. This is known as “write once, run everywhere”.
+i.e. class files run everywhere.
+
+
+4. Robust: One of the major advantages of Java over C++ is that it prevents memory leaks. 
+The Garbage collection.
+
+
+5. Simple : Java was intended to be simpler than C++. In addition to eliminating pointers,
+it got rid of operator overloading. In C++, you could write a + b and have it mean almost
+anything.
+
+
+6. Secure: Java code runs inside the JVM. This creates a sandbox that makes it hard for Java
+code to do evil things to the computer it is running on.
